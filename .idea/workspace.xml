@@ -1,15 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2e53d35-a726-41eb-96ca-e1b8bf6c0b01" name="Changes" comment="" />
+    <list default="true" id="b2e53d35-a726-41eb-96ca-e1b8bf6c0b01" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/fantasyApp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VLRFantasy/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/VLRFantasy/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fantasyApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fantasyApp/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "william-tay"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/william-tay/VLRFantasy.git",
+    "accountId": "97f656f3-c16f-4bf1-b4d8-af77b76bcba4"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -21,12 +50,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.VLRFantasy.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "django.template.preview.state": "SHOW_EDITOR",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Will/Downloads/VLRFantasy/fantasyApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Will\Downloads\VLRFantasy\fantasyApp" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="VLRFantasy" type="Python.DjangoServer" factoryName="Django server">
       <module name="VLRFantasy" />
@@ -35,6 +80,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="VLRFantasy.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -69,8 +115,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740709493507</updated>
-      <workItem from="1740709494556" duration="3000" />
+      <workItem from="1740709494556" duration="851000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1740709599785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740709599785</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1740709634258</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740709634258</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
